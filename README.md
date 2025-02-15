@@ -54,3 +54,4 @@ The AI News Agent is a powerful tool designed to help you discover and write com
 
 - [Streamlit](https://streamlit.io/)
 - [OpenAI](https://openai.com/)
+- [Repo](https://github.com/ashishpatel26/AIAgentWorkshop)
