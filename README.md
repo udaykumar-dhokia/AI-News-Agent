@@ -44,15 +44,11 @@ The AI News Agent is a powerful tool designed to help you discover and write com
 
 ## Files
 
-- [AI_News_Agent.py](http://_vscodecontentref_/0): Main script for the Streamlit app.
+- `AI_News_Agent.py`: Main script for the Streamlit app.
 - `AI News Agent.ipynb`: Jupyter notebook for development and testing.
 - `demo.png`: Demo image showcasing the app.
 - `requirements.txt`: List of required Python packages.
 - `.env`: Environment variables file.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
